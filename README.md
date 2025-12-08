@@ -6,3 +6,4 @@
 
 * [RLVR](./RLVR/notes.md)
 * [XAI](./XAI/notes.md)
+* [数学工具](./math/notes.md)
