@@ -17,3 +17,8 @@
 > Moreover, even when the model catches its own error, it often parrots the original mistake.
 > We find that the distribution shift of synthetic errors to on-policy errors significantly degrades the error-correction capabilities of the fine-tuned model, even with good synthetic coverage of on-policy errors.
 
+## Steering Vector
+
+* Understanding Reasoning in Thinking Language Models via Steering Vectors https://arxiv.org/abs/2506.18167
+  * 找出LRM各种典型思维行为的steering vector，并通过它们来控制模型的行为。
+* When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models https://arxiv.org/abs/2504.02010
